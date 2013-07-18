@@ -1,0 +1,10 @@
+.section-container.auto .section-container > section.active > .content, 
+.section-container.auto .section-container > .section.active > .content {
+	border: 0 none;
+	display: block;
+	position: relative;
+}
+
+table {
+	width: 100%;
+}
